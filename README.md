@@ -1,5 +1,4 @@
-# tolado-caffee-pos
-Ingin membuat web bisnis 
+
 <!DOCTYPE html>
 <html lang="id">
 <head>
